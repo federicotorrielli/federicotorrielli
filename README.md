@@ -25,4 +25,4 @@ You can find most of the things I do on [my website](https://www.evilscript.eu/)
 
 ### Blog ✍
 
-You can read my personal blog [here](https://federicotorrielli.github.io/blog) and my Web Blog Project [here](computationalcoffee.github.io)
+You can read my personal blog [here](https://federicotorrielli.github.io/blog) and my Web Blog Project [here](https://computationalcoffee.github.io)
