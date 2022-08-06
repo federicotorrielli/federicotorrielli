@@ -12,8 +12,8 @@ You can find most of the things I do on [my website](https://www.evilscript.eu/)
 [![federicotorrielli's GitHub stats](https://github-readme-stats.vercel.app/api?username=federicotorrielli)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies and Tools 🔧
-![](https://img.shields.io/badge/OS-ArcoLinux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=Neovim&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Pop_OS!-informational?style=flat&logo=popos&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
