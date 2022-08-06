@@ -1,4 +1,4 @@
-### Hello world! 👋🌍
+![Header](header.png)
 
 I'm *Federico*, a Master Student in **Artificial Intelligence** @ UniTO!
 I'm italian but fluent in english (and latin, *lol*).
