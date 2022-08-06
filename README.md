@@ -27,6 +27,8 @@ You can find most of the things I do on [my website](https://www.evilscript.eu/)
 
 You can read my personal blog [here](https://federicotorrielli.github.io/blog) and my Web Blog Project [here](https://computationalcoffee.github.io)
 
+### What am I doing?
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#432](https://github.com/react-native-picker/picker/issues/432) in [react-native-picker/picker](https://github.com/react-native-picker/picker)
 2. ❗️ Closed issue [#39](https://github.com/stefa168/guida_degli_studenti_di/issues/39) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
