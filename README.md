@@ -28,3 +28,9 @@ You can find most of the things I do on [my website](https://www.evilscript.eu/)
 You can read my personal blog [here](https://federicotorrielli.github.io/blog) and my Web Blog Project [here](https://computationalcoffee.github.io)
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#432](https://github.com/react-native-picker/picker/issues/432) in [react-native-picker/picker](https://github.com/react-native-picker/picker)
+2. ❗️ Closed issue [#39](https://github.com/stefa168/guida_degli_studenti_di/issues/39) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+3. 🗣 Commented on [#39](https://github.com/stefa168/guida_degli_studenti_di/issues/39) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+4. 🎉 Merged PR [#41](https://github.com/stefa168/guida_degli_studenti_di/pull/41) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+5. 🗣 Commented on [#41](https://github.com/stefa168/guida_degli_studenti_di/issues/41) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+<!--END_SECTION:activity-->
