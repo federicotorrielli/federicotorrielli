@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog) a
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/NyaMisty/AltServer-Linux/issues/66) in [NyaMisty/AltServer-Linux](https://github.com/NyaMisty/AltServer-Linux)
-2. ❗️ Opened issue [#8](https://github.com/censurfridns/client-configs/issues/8) in [censurfridns/client-configs](https://github.com/censurfridns/client-configs)
-3. 🗣 Commented on [#432](https://github.com/react-native-picker/picker/issues/432) in [react-native-picker/picker](https://github.com/react-native-picker/picker)
-4. ❗️ Closed issue [#39](https://github.com/stefa168/guida_degli_studenti_di/issues/39) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
-5. 🗣 Commented on [#39](https://github.com/stefa168/guida_degli_studenti_di/issues/39) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+1. ❗️ Opened issue [#258](https://github.com/cryptomator/ios/issues/258) in [cryptomator/ios](https://github.com/cryptomator/ios)
+2. 🗣 Commented on [#66](https://github.com/NyaMisty/AltServer-Linux/issues/66) in [NyaMisty/AltServer-Linux](https://github.com/NyaMisty/AltServer-Linux)
+3. ❗️ Opened issue [#8](https://github.com/censurfridns/client-configs/issues/8) in [censurfridns/client-configs](https://github.com/censurfridns/client-configs)
+4. 🗣 Commented on [#432](https://github.com/react-native-picker/picker/issues/432) in [react-native-picker/picker](https://github.com/react-native-picker/picker)
+5. ❗️ Closed issue [#39](https://github.com/stefa168/guida_degli_studenti_di/issues/39) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
 <!--END_SECTION:activity-->
