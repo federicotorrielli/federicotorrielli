@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog) a
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/stefa168/guida_degli_studenti_di/pull/44) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
-2. ❗️ Opened issue [#258](https://github.com/cryptomator/ios/issues/258) in [cryptomator/ios](https://github.com/cryptomator/ios)
-3. 🗣 Commented on [#66](https://github.com/NyaMisty/AltServer-Linux/issues/66) in [NyaMisty/AltServer-Linux](https://github.com/NyaMisty/AltServer-Linux)
-4. ❗️ Opened issue [#8](https://github.com/censurfridns/client-configs/issues/8) in [censurfridns/client-configs](https://github.com/censurfridns/client-configs)
-5. 🗣 Commented on [#432](https://github.com/react-native-picker/picker/issues/432) in [react-native-picker/picker](https://github.com/react-native-picker/picker)
+1. 🗣 Commented on [#1](https://github.com/AntonLandao/oCd-Pack-Vanilla/issues/1) in [AntonLandao/oCd-Pack-Vanilla](https://github.com/AntonLandao/oCd-Pack-Vanilla)
+2. 🎉 Merged PR [#44](https://github.com/stefa168/guida_degli_studenti_di/pull/44) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+3. ❗️ Opened issue [#258](https://github.com/cryptomator/ios/issues/258) in [cryptomator/ios](https://github.com/cryptomator/ios)
+4. 🗣 Commented on [#66](https://github.com/NyaMisty/AltServer-Linux/issues/66) in [NyaMisty/AltServer-Linux](https://github.com/NyaMisty/AltServer-Linux)
+5. ❗️ Opened issue [#8](https://github.com/censurfridns/client-configs/issues/8) in [censurfridns/client-configs](https://github.com/censurfridns/client-configs)
 <!--END_SECTION:activity-->
