@@ -35,8 +35,8 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog) a
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#36](https://github.com/maltejur/discord-screenaudio/issues/36) in [maltejur/discord-screenaudio](https://github.com/maltejur/discord-screenaudio)
-2. ❗️ Opened issue [#58](https://github.com/maltejur/discord-screenaudio/issues/58) in [maltejur/discord-screenaudio](https://github.com/maltejur/discord-screenaudio)
-3. 🎉 Merged PR [#54](https://github.com/stefa168/guida_degli_studenti_di/pull/54) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
-4. 🗣 Commented on [#53](https://github.com/stefa168/guida_degli_studenti_di/issues/53) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
-5. 💪 Opened PR [#53](https://github.com/stefa168/guida_degli_studenti_di/pull/53) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+2. 🗣 Commented on [#36](https://github.com/maltejur/discord-screenaudio/issues/36) in [maltejur/discord-screenaudio](https://github.com/maltejur/discord-screenaudio)
+3. ❗️ Opened issue [#58](https://github.com/maltejur/discord-screenaudio/issues/58) in [maltejur/discord-screenaudio](https://github.com/maltejur/discord-screenaudio)
+4. 🎉 Merged PR [#54](https://github.com/stefa168/guida_degli_studenti_di/pull/54) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+5. 🗣 Commented on [#53](https://github.com/stefa168/guida_degli_studenti_di/issues/53) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
 <!--END_SECTION:activity-->
