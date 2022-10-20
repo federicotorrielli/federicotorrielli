@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog) a
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/stefa168/guida_degli_studenti_di/issues/59) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
-2. 💪 Opened PR [#59](https://github.com/stefa168/guida_degli_studenti_di/pull/59) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
-3. 💪 Opened PR [#58](https://github.com/stefa168/guida_degli_studenti_di/pull/58) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
-4. 🎉 Merged PR [#57](https://github.com/stefa168/guida_degli_studenti_di/pull/57) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
-5. 🗣 Commented on [#36](https://github.com/maltejur/discord-screenaudio/issues/36) in [maltejur/discord-screenaudio](https://github.com/maltejur/discord-screenaudio)
+1. 🎉 Merged PR [#60](https://github.com/stefa168/guida_degli_studenti_di/pull/60) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+2. 🗣 Commented on [#59](https://github.com/stefa168/guida_degli_studenti_di/issues/59) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+3. 💪 Opened PR [#59](https://github.com/stefa168/guida_degli_studenti_di/pull/59) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+4. 💪 Opened PR [#58](https://github.com/stefa168/guida_degli_studenti_di/pull/58) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+5. 🎉 Merged PR [#57](https://github.com/stefa168/guida_degli_studenti_di/pull/57) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
 <!--END_SECTION:activity-->
