@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog) a
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#60](https://github.com/stefa168/guida_degli_studenti_di/pull/60) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
-2. 🗣 Commented on [#59](https://github.com/stefa168/guida_degli_studenti_di/issues/59) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
-3. 💪 Opened PR [#59](https://github.com/stefa168/guida_degli_studenti_di/pull/59) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
-4. 💪 Opened PR [#58](https://github.com/stefa168/guida_degli_studenti_di/pull/58) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
-5. 🎉 Merged PR [#57](https://github.com/stefa168/guida_degli_studenti_di/pull/57) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+1. 🗣 Commented on [#63](https://github.com/stefa168/guida_degli_studenti_di/issues/63) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+2. ❗️ Opened issue [#61](https://github.com/stefa168/guida_degli_studenti_di/issues/61) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+3. 🎉 Merged PR [#60](https://github.com/stefa168/guida_degli_studenti_di/pull/60) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+4. 🗣 Commented on [#59](https://github.com/stefa168/guida_degli_studenti_di/issues/59) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+5. 💪 Opened PR [#59](https://github.com/stefa168/guida_degli_studenti_di/pull/59) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
 <!--END_SECTION:activity-->
