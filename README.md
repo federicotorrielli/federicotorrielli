@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog) a
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/AntonLandao/oCd-Pack-Vanilla/issues/1) in [AntonLandao/oCd-Pack-Vanilla](https://github.com/AntonLandao/oCd-Pack-Vanilla)
-2. 💪 Opened PR [#66](https://github.com/stefa168/guida_degli_studenti_di/pull/66) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
-3. 🗣 Commented on [#65](https://github.com/stefa168/guida_degli_studenti_di/issues/65) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
-4. 🗣 Commented on [#633](https://github.com/qnblackcat/uYouPlus/issues/633) in [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus)
-5. ❗️ Opened issue [#633](https://github.com/qnblackcat/uYouPlus/issues/633) in [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus)
+1. 🗣 Commented on [#67](https://github.com/stefa168/guida_degli_studenti_di/issues/67) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+2. 🎉 Merged PR [#67](https://github.com/stefa168/guida_degli_studenti_di/pull/67) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+3. 💪 Opened PR [#67](https://github.com/stefa168/guida_degli_studenti_di/pull/67) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+4. 🗣 Commented on [#1](https://github.com/AntonLandao/oCd-Pack-Vanilla/issues/1) in [AntonLandao/oCd-Pack-Vanilla](https://github.com/AntonLandao/oCd-Pack-Vanilla)
+5. 💪 Opened PR [#66](https://github.com/stefa168/guida_degli_studenti_di/pull/66) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
 <!--END_SECTION:activity-->
