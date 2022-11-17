@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog) a
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com/pharmapsychotic/clip-interrogator/issues/16) in [pharmapsychotic/clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator)
-2. 🎉 Merged PR [#69](https://github.com/stefa168/guida_degli_studenti_di/pull/69) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
-3. ❌ Closed PR [#65](https://github.com/stefa168/guida_degli_studenti_di/pull/65) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
-4. 🗣 Commented on [#65](https://github.com/stefa168/guida_degli_studenti_di/issues/65) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
-5. 🗣 Commented on [#67](https://github.com/stefa168/guida_degli_studenti_di/issues/67) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+1. 🗣 Commented on [#68](https://github.com/stefa168/guida_degli_studenti_di/issues/68) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+2. ❗️ Opened issue [#47](https://github.com/salesforce/LAVIS/issues/47) in [salesforce/LAVIS](https://github.com/salesforce/LAVIS)
+3. ❗️ Closed issue [#16](https://github.com/pharmapsychotic/clip-interrogator/issues/16) in [pharmapsychotic/clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator)
+4. 🗣 Commented on [#16](https://github.com/pharmapsychotic/clip-interrogator/issues/16) in [pharmapsychotic/clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator)
+5. ❗️ Opened issue [#16](https://github.com/pharmapsychotic/clip-interrogator/issues/16) in [pharmapsychotic/clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator)
 <!--END_SECTION:activity-->
