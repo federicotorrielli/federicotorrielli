@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog) a
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/castorini/daam/issues/9) in [castorini/daam](https://github.com/castorini/daam)
-2. 🗣 Commented on [#9](https://github.com/castorini/daam/issues/9) in [castorini/daam](https://github.com/castorini/daam)
-3. 🗣 Commented on [#1398](https://github.com/huggingface/diffusers/issues/1398) in [huggingface/diffusers](https://github.com/huggingface/diffusers)
-4. 🗣 Commented on [#21](https://github.com/JoaoLages/diffusers-interpret/issues/21) in [JoaoLages/diffusers-interpret](https://github.com/JoaoLages/diffusers-interpret)
-5. 🗣 Commented on [#551](https://github.com/huggingface/diffusers/issues/551) in [huggingface/diffusers](https://github.com/huggingface/diffusers)
+1. 🗣 Commented on [#21](https://github.com/JoaoLages/diffusers-interpret/issues/21) in [JoaoLages/diffusers-interpret](https://github.com/JoaoLages/diffusers-interpret)
+2. 🗣 Commented on [#551](https://github.com/huggingface/diffusers/issues/551) in [huggingface/diffusers](https://github.com/huggingface/diffusers)
+3. 🗣 Commented on [#9](https://github.com/castorini/daam/issues/9) in [castorini/daam](https://github.com/castorini/daam)
+4. 🗣 Commented on [#9](https://github.com/castorini/daam/issues/9) in [castorini/daam](https://github.com/castorini/daam)
+5. 🗣 Commented on [#1398](https://github.com/huggingface/diffusers/issues/1398) in [huggingface/diffusers](https://github.com/huggingface/diffusers)
 <!--END_SECTION:activity-->
