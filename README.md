@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog) a
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/castorini/daam/issues/14) in [castorini/daam](https://github.com/castorini/daam)
-2. 🗣 Commented on [#154](https://github.com/libimobiledevice/usbmuxd/issues/154) in [libimobiledevice/usbmuxd](https://github.com/libimobiledevice/usbmuxd)
+1. ❗️ Closed issue [#203](https://github.com/libimobiledevice/usbmuxd/issues/203) in [libimobiledevice/usbmuxd](https://github.com/libimobiledevice/usbmuxd)
+2. 🗣 Commented on [#14](https://github.com/castorini/daam/issues/14) in [castorini/daam](https://github.com/castorini/daam)
 3. 🗣 Commented on [#154](https://github.com/libimobiledevice/usbmuxd/issues/154) in [libimobiledevice/usbmuxd](https://github.com/libimobiledevice/usbmuxd)
 4. 🗣 Commented on [#154](https://github.com/libimobiledevice/usbmuxd/issues/154) in [libimobiledevice/usbmuxd](https://github.com/libimobiledevice/usbmuxd)
-5. ❗️ Opened issue [#203](https://github.com/libimobiledevice/usbmuxd/issues/203) in [libimobiledevice/usbmuxd](https://github.com/libimobiledevice/usbmuxd)
+5. 🗣 Commented on [#154](https://github.com/libimobiledevice/usbmuxd/issues/154) in [libimobiledevice/usbmuxd](https://github.com/libimobiledevice/usbmuxd)
 <!--END_SECTION:activity-->
