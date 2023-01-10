@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog) a
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/stefa168/guida_degli_studenti_di/issues/72) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
-2. 🎉 Merged PR [#71](https://github.com/stefa168/guida_degli_studenti_di/pull/71) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
-3. 🎉 Merged PR [#70](https://github.com/stefa168/guida_degli_studenti_di/pull/70) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
-4. ❗️ Closed issue [#203](https://github.com/libimobiledevice/usbmuxd/issues/203) in [libimobiledevice/usbmuxd](https://github.com/libimobiledevice/usbmuxd)
-5. 🗣 Commented on [#14](https://github.com/castorini/daam/issues/14) in [castorini/daam](https://github.com/castorini/daam)
+1. 🗣 Commented on [#73](https://github.com/stefa168/guida_degli_studenti_di/issues/73) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+2. 🎉 Merged PR [#73](https://github.com/stefa168/guida_degli_studenti_di/pull/73) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+3. 🗣 Commented on [#72](https://github.com/stefa168/guida_degli_studenti_di/issues/72) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+4. 🎉 Merged PR [#71](https://github.com/stefa168/guida_degli_studenti_di/pull/71) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+5. 🎉 Merged PR [#70](https://github.com/stefa168/guida_degli_studenti_di/pull/70) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
 <!--END_SECTION:activity-->
