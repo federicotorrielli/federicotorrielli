@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog) a
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/stefa168/guida_degli_studenti_di/issues/76) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
-2. 🗣 Commented on [#155](https://github.com/brycedrennan/imaginAIry/issues/155) in [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry)
-3. 🗣 Commented on [#155](https://github.com/brycedrennan/imaginAIry/issues/155) in [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry)
-4. 💪 Opened PR [#891](https://github.com/qnblackcat/uYouPlus/pull/891) in [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus)
-5. 🗣 Commented on [#73](https://github.com/stefa168/guida_degli_studenti_di/issues/73) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+1. 🎉 Merged PR [#76](https://github.com/stefa168/guida_degli_studenti_di/pull/76) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+2. 🗣 Commented on [#76](https://github.com/stefa168/guida_degli_studenti_di/issues/76) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+3. 🗣 Commented on [#76](https://github.com/stefa168/guida_degli_studenti_di/issues/76) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+4. 🗣 Commented on [#155](https://github.com/brycedrennan/imaginAIry/issues/155) in [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry)
+5. 🗣 Commented on [#155](https://github.com/brycedrennan/imaginAIry/issues/155) in [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry)
 <!--END_SECTION:activity-->
