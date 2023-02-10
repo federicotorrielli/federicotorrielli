@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog) a
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/maixiaojie/git-emoji/issues/23) in [maixiaojie/git-emoji](https://github.com/maixiaojie/git-emoji)
+1. ❗️ Opened issue [#244](https://github.com/brycedrennan/imaginAIry/issues/244) in [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry)
 2. 🗣 Commented on [#23](https://github.com/maixiaojie/git-emoji/issues/23) in [maixiaojie/git-emoji](https://github.com/maixiaojie/git-emoji)
-3. 🎉 Merged PR [#76](https://github.com/stefa168/guida_degli_studenti_di/pull/76) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
-4. 🗣 Commented on [#76](https://github.com/stefa168/guida_degli_studenti_di/issues/76) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
+3. 🗣 Commented on [#23](https://github.com/maixiaojie/git-emoji/issues/23) in [maixiaojie/git-emoji](https://github.com/maixiaojie/git-emoji)
+4. 🎉 Merged PR [#76](https://github.com/stefa168/guida_degli_studenti_di/pull/76) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
 5. 🗣 Commented on [#76](https://github.com/stefa168/guida_degli_studenti_di/issues/76) in [stefa168/guida_degli_studenti_di](https://github.com/stefa168/guida_degli_studenti_di)
 <!--END_SECTION:activity-->
