@@ -1,6 +1,6 @@
 ![Header](header.png)
 
-I'm *Federico*, a Master Student in **Artificial Intelligence** @ UniTO!
+I'm *Federico*, a Researcher in **Artificial Intelligence** @ UniTO! I work on Attention-based Neural Networks (e.g. Transformers, Diffusers...).
 I'm italian but fluent in english (and latin, *lol*).
 
 ### What am I working on? 💻
@@ -29,7 +29,7 @@ You can find most of the things I do on [my website](https://www.evilscript.eu/)
 
 ### Blog ✍
 
-You can read my personal blog [here](https://federicotorrielli.github.io/blog) and my Web Blog Project [here](https://computationalcoffee.github.io)
+You can read my personal blog [here](https://federicotorrielli.github.io/blog)!
 
 ### What am I doing?
 
