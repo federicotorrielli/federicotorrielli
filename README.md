@@ -35,8 +35,8 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog)!
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#47](https://github.com/pharmapsychotic/clip-interrogator/issues/47) in [pharmapsychotic/clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator)
-2. ❗️ Opened issue [#255](https://github.com/brycedrennan/imaginAIry/issues/255) in [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry)
-3. 🗣 Commented on [#244](https://github.com/brycedrennan/imaginAIry/issues/244) in [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry)
-4. ❗️ Opened issue [#244](https://github.com/brycedrennan/imaginAIry/issues/244) in [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry)
-5. 🗣 Commented on [#23](https://github.com/maixiaojie/git-emoji/issues/23) in [maixiaojie/git-emoji](https://github.com/maixiaojie/git-emoji)
+2. 🗣 Commented on [#47](https://github.com/pharmapsychotic/clip-interrogator/issues/47) in [pharmapsychotic/clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator)
+3. ❗️ Opened issue [#255](https://github.com/brycedrennan/imaginAIry/issues/255) in [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry)
+4. 🗣 Commented on [#244](https://github.com/brycedrennan/imaginAIry/issues/244) in [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry)
+5. ❗️ Opened issue [#244](https://github.com/brycedrennan/imaginAIry/issues/244) in [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry)
 <!--END_SECTION:activity-->
