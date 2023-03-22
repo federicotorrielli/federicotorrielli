@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog)!
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/federicotorrielli/better-chatgpt-telegram-bot/issues/3) in [federicotorrielli/better-chatgpt-telegram-bot](https://github.com/federicotorrielli/better-chatgpt-telegram-bot)
-2. ❗️ Closed issue [#3](https://github.com/federicotorrielli/better-chatgpt-telegram-bot/issues/3) in [federicotorrielli/better-chatgpt-telegram-bot](https://github.com/federicotorrielli/better-chatgpt-telegram-bot)
-3. 🗣 Commented on [#3](https://github.com/federicotorrielli/better-chatgpt-telegram-bot/issues/3) in [federicotorrielli/better-chatgpt-telegram-bot](https://github.com/federicotorrielli/better-chatgpt-telegram-bot)
-4. ❗️ Closed issue [#1](https://github.com/federicotorrielli/better-chatgpt-telegram-bot/issues/1) in [federicotorrielli/better-chatgpt-telegram-bot](https://github.com/federicotorrielli/better-chatgpt-telegram-bot)
-5. 🗣 Commented on [#1](https://github.com/federicotorrielli/better-chatgpt-telegram-bot/issues/1) in [federicotorrielli/better-chatgpt-telegram-bot](https://github.com/federicotorrielli/better-chatgpt-telegram-bot)
+1. ❗️ Closed issue [#4](https://github.com/federicotorrielli/better-chatgpt-telegram-bot/issues/4) in [federicotorrielli/better-chatgpt-telegram-bot](https://github.com/federicotorrielli/better-chatgpt-telegram-bot)
+2. 🗣 Commented on [#3](https://github.com/federicotorrielli/better-chatgpt-telegram-bot/issues/3) in [federicotorrielli/better-chatgpt-telegram-bot](https://github.com/federicotorrielli/better-chatgpt-telegram-bot)
+3. ❗️ Closed issue [#3](https://github.com/federicotorrielli/better-chatgpt-telegram-bot/issues/3) in [federicotorrielli/better-chatgpt-telegram-bot](https://github.com/federicotorrielli/better-chatgpt-telegram-bot)
+4. 🗣 Commented on [#3](https://github.com/federicotorrielli/better-chatgpt-telegram-bot/issues/3) in [federicotorrielli/better-chatgpt-telegram-bot](https://github.com/federicotorrielli/better-chatgpt-telegram-bot)
+5. ❗️ Closed issue [#1](https://github.com/federicotorrielli/better-chatgpt-telegram-bot/issues/1) in [federicotorrielli/better-chatgpt-telegram-bot](https://github.com/federicotorrielli/better-chatgpt-telegram-bot)
 <!--END_SECTION:activity-->
