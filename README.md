@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog)!
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/MahmoudAshraf97/whisper-diarization/pull/20) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
-2. 🗣 Commented on [#14](https://github.com/MahmoudAshraf97/whisper-diarization/issues/14) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
-3. ❗️ Closed issue [#833](https://github.com/vinceliuice/WhiteSur-gtk-theme/issues/833) in [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
-4. 🗣 Commented on [#833](https://github.com/vinceliuice/WhiteSur-gtk-theme/issues/833) in [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
-5. ❗️ Opened issue [#833](https://github.com/vinceliuice/WhiteSur-gtk-theme/issues/833) in [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
+1. 🗣 Commented on [#20](https://github.com/MahmoudAshraf97/whisper-diarization/issues/20) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
+2. 💪 Opened PR [#20](https://github.com/MahmoudAshraf97/whisper-diarization/pull/20) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
+3. 🗣 Commented on [#14](https://github.com/MahmoudAshraf97/whisper-diarization/issues/14) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
+4. ❗️ Closed issue [#833](https://github.com/vinceliuice/WhiteSur-gtk-theme/issues/833) in [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
+5. 🗣 Commented on [#833](https://github.com/vinceliuice/WhiteSur-gtk-theme/issues/833) in [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 <!--END_SECTION:activity-->
