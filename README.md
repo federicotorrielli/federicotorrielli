@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog)!
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3532](https://github.com/wez/wezterm/issues/3532) in [wez/wezterm](https://github.com/wez/wezterm)
+1. ❗️ Opened issue [#68](https://github.com/Dadoum/Provision/issues/68) in [Dadoum/Provision](https://github.com/Dadoum/Provision)
 2. 🗣 Commented on [#3532](https://github.com/wez/wezterm/issues/3532) in [wez/wezterm](https://github.com/wez/wezterm)
-3. ❗️ Opened issue [#3532](https://github.com/wez/wezterm/issues/3532) in [wez/wezterm](https://github.com/wez/wezterm)
-4. 🗣 Commented on [#20](https://github.com/MahmoudAshraf97/whisper-diarization/issues/20) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
-5. 💪 Opened PR [#20](https://github.com/MahmoudAshraf97/whisper-diarization/pull/20) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
+3. 🗣 Commented on [#3532](https://github.com/wez/wezterm/issues/3532) in [wez/wezterm](https://github.com/wez/wezterm)
+4. ❗️ Opened issue [#3532](https://github.com/wez/wezterm/issues/3532) in [wez/wezterm](https://github.com/wez/wezterm)
+5. 🗣 Commented on [#20](https://github.com/MahmoudAshraf97/whisper-diarization/issues/20) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
 <!--END_SECTION:activity-->
