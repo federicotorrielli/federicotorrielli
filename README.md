@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog)!
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#68](https://github.com/Dadoum/Provision/issues/68) in [Dadoum/Provision](https://github.com/Dadoum/Provision)
-2. 🗣 Commented on [#68](https://github.com/Dadoum/Provision/issues/68) in [Dadoum/Provision](https://github.com/Dadoum/Provision)
-3. ❗️ Opened issue [#68](https://github.com/Dadoum/Provision/issues/68) in [Dadoum/Provision](https://github.com/Dadoum/Provision)
-4. 🗣 Commented on [#3532](https://github.com/wez/wezterm/issues/3532) in [wez/wezterm](https://github.com/wez/wezterm)
+1. 🗣 Commented on [#797](https://github.com/meganz/MEGAsync/issues/797) in [meganz/MEGAsync](https://github.com/meganz/MEGAsync)
+2. ❗️ Closed issue [#68](https://github.com/Dadoum/Provision/issues/68) in [Dadoum/Provision](https://github.com/Dadoum/Provision)
+3. 🗣 Commented on [#68](https://github.com/Dadoum/Provision/issues/68) in [Dadoum/Provision](https://github.com/Dadoum/Provision)
+4. ❗️ Opened issue [#68](https://github.com/Dadoum/Provision/issues/68) in [Dadoum/Provision](https://github.com/Dadoum/Provision)
 5. 🗣 Commented on [#3532](https://github.com/wez/wezterm/issues/3532) in [wez/wezterm](https://github.com/wez/wezterm)
 <!--END_SECTION:activity-->
