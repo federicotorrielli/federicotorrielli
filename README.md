@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog)!
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#174](https://github.com/metafates/mangal/issues/174) in [metafates/mangal](https://github.com/metafates/mangal)
-2. 🗣 Commented on [#797](https://github.com/meganz/MEGAsync/issues/797) in [meganz/MEGAsync](https://github.com/meganz/MEGAsync)
-3. 🔒 Closed issue [#68](https://github.com/Dadoum/Provision/issues/68) in [Dadoum/Provision](https://github.com/Dadoum/Provision)
-4. 🗣 Commented on [#68](https://github.com/Dadoum/Provision/issues/68) in [Dadoum/Provision](https://github.com/Dadoum/Provision)
-5. ❗ Opened issue [#68](https://github.com/Dadoum/Provision/issues/68) in [Dadoum/Provision](https://github.com/Dadoum/Provision)
+1. 🗣 Commented on [#409](https://github.com/IlanCosman/tide/issues/409) in [IlanCosman/tide](https://github.com/IlanCosman/tide)
+2. ❗ Opened issue [#174](https://github.com/metafates/mangal/issues/174) in [metafates/mangal](https://github.com/metafates/mangal)
+3. 🗣 Commented on [#797](https://github.com/meganz/MEGAsync/issues/797) in [meganz/MEGAsync](https://github.com/meganz/MEGAsync)
+4. 🔒 Closed issue [#68](https://github.com/Dadoum/Provision/issues/68) in [Dadoum/Provision](https://github.com/Dadoum/Provision)
+5. 🗣 Commented on [#68](https://github.com/Dadoum/Provision/issues/68) in [Dadoum/Provision](https://github.com/Dadoum/Provision)
 <!--END_SECTION:activity-->
