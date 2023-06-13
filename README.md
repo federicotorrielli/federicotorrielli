@@ -35,8 +35,8 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog)!
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12774](https://github.com/conda/conda/issues/12774) in [conda/conda](https://github.com/conda/conda)
-2. 🗣 Commented on [#12774](https://github.com/conda/conda/issues/12774) in [conda/conda](https://github.com/conda/conda)
-3. ❗ Opened issue [#12774](https://github.com/conda/conda/issues/12774) in [conda/conda](https://github.com/conda/conda)
-4. 🗣 Commented on [#409](https://github.com/IlanCosman/tide/issues/409) in [IlanCosman/tide](https://github.com/IlanCosman/tide)
-5. ❗ Opened issue [#174](https://github.com/metafates/mangal/issues/174) in [metafates/mangal](https://github.com/metafates/mangal)
+2. ❗ Opened issue [#170](https://github.com/Alex313031/thorium/issues/170) in [Alex313031/thorium](https://github.com/Alex313031/thorium)
+3. 🗣 Commented on [#22](https://github.com/Alex313031/Mercury/issues/22) in [Alex313031/Mercury](https://github.com/Alex313031/Mercury)
+4. 🗣 Commented on [#12774](https://github.com/conda/conda/issues/12774) in [conda/conda](https://github.com/conda/conda)
+5. 🗣 Commented on [#12774](https://github.com/conda/conda/issues/12774) in [conda/conda](https://github.com/conda/conda)
 <!--END_SECTION:activity-->
