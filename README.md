@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog)!
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/metafates/pat/issues/2) in [metafates/pat](https://github.com/metafates/pat)
-2. 🗣 Commented on [#12774](https://github.com/conda/conda/issues/12774) in [conda/conda](https://github.com/conda/conda)
-3. ❗ Opened issue [#170](https://github.com/Alex313031/thorium/issues/170) in [Alex313031/thorium](https://github.com/Alex313031/thorium)
-4. 🗣 Commented on [#22](https://github.com/Alex313031/Mercury/issues/22) in [Alex313031/Mercury](https://github.com/Alex313031/Mercury)
-5. 🗣 Commented on [#12774](https://github.com/conda/conda/issues/12774) in [conda/conda](https://github.com/conda/conda)
+1. ❗ Opened issue [#3](https://github.com/CachyOS/CachyOS-Browser-Settings/issues/3) in [CachyOS/CachyOS-Browser-Settings](https://github.com/CachyOS/CachyOS-Browser-Settings)
+2. ❗ Opened issue [#2](https://github.com/metafates/pat/issues/2) in [metafates/pat](https://github.com/metafates/pat)
+3. 🗣 Commented on [#12774](https://github.com/conda/conda/issues/12774) in [conda/conda](https://github.com/conda/conda)
+4. ❗ Opened issue [#170](https://github.com/Alex313031/thorium/issues/170) in [Alex313031/thorium](https://github.com/Alex313031/thorium)
+5. 🗣 Commented on [#22](https://github.com/Alex313031/Mercury/issues/22) in [Alex313031/Mercury](https://github.com/Alex313031/Mercury)
 <!--END_SECTION:activity-->
