@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog)!
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#322](https://github.com/m-bain/whisperX/issues/322) in [m-bain/whisperX](https://github.com/m-bain/whisperX)
-2. ❗ Opened issue [#3](https://github.com/CachyOS/CachyOS-Browser-Settings/issues/3) in [CachyOS/CachyOS-Browser-Settings](https://github.com/CachyOS/CachyOS-Browser-Settings)
-3. ❗ Opened issue [#2](https://github.com/metafates/pat/issues/2) in [metafates/pat](https://github.com/metafates/pat)
-4. 🗣 Commented on [#12774](https://github.com/conda/conda/issues/12774) in [conda/conda](https://github.com/conda/conda)
-5. ❗ Opened issue [#170](https://github.com/Alex313031/thorium/issues/170) in [Alex313031/thorium](https://github.com/Alex313031/thorium)
+1. 🗣 Commented on [#3](https://github.com/CachyOS/CachyOS-Browser-Settings/issues/3) in [CachyOS/CachyOS-Browser-Settings](https://github.com/CachyOS/CachyOS-Browser-Settings)
+2. 🗣 Commented on [#322](https://github.com/m-bain/whisperX/issues/322) in [m-bain/whisperX](https://github.com/m-bain/whisperX)
+3. ❗ Opened issue [#3](https://github.com/CachyOS/CachyOS-Browser-Settings/issues/3) in [CachyOS/CachyOS-Browser-Settings](https://github.com/CachyOS/CachyOS-Browser-Settings)
+4. ❗ Opened issue [#2](https://github.com/metafates/pat/issues/2) in [metafates/pat](https://github.com/metafates/pat)
+5. 🗣 Commented on [#12774](https://github.com/conda/conda/issues/12774) in [conda/conda](https://github.com/conda/conda)
 <!--END_SECTION:activity-->
