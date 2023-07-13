@@ -35,8 +35,8 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog)!
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#4](https://github.com/CachyOS/CachyOS-Browser-Settings/pull/4) in [CachyOS/CachyOS-Browser-Settings](https://github.com/CachyOS/CachyOS-Browser-Settings)
-2. 🗣 Commented on [#3](https://github.com/CachyOS/CachyOS-Browser-Settings/issues/3) in [CachyOS/CachyOS-Browser-Settings](https://github.com/CachyOS/CachyOS-Browser-Settings)
-3. 🗣 Commented on [#322](https://github.com/m-bain/whisperX/issues/322) in [m-bain/whisperX](https://github.com/m-bain/whisperX)
+2. 🗣 Commented on [#3](https://github.com/CachyOS/CachyOS-Browser-Settings/issues/3#issuecomment-1614356190) in [CachyOS/CachyOS-Browser-Settings](https://github.com/CachyOS/CachyOS-Browser-Settings)
+3. 🗣 Commented on [#322](https://github.com/m-bain/whisperX/issues/322#issuecomment-1611265698) in [m-bain/whisperX](https://github.com/m-bain/whisperX)
 4. ❗ Opened issue [#3](https://github.com/CachyOS/CachyOS-Browser-Settings/issues/3) in [CachyOS/CachyOS-Browser-Settings](https://github.com/CachyOS/CachyOS-Browser-Settings)
 5. ❗ Opened issue [#2](https://github.com/metafates/pat/issues/2) in [metafates/pat](https://github.com/metafates/pat)
 <!--END_SECTION:activity-->
