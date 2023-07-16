@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog)!
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/CachyOS/CachyOS-Browser-Settings/pull/4) in [CachyOS/CachyOS-Browser-Settings](https://github.com/CachyOS/CachyOS-Browser-Settings)
-2. 🗣 Commented on [#3](https://github.com/CachyOS/CachyOS-Browser-Settings/issues/3#issuecomment-1614356190) in [CachyOS/CachyOS-Browser-Settings](https://github.com/CachyOS/CachyOS-Browser-Settings)
-3. 🗣 Commented on [#322](https://github.com/m-bain/whisperX/issues/322#issuecomment-1611265698) in [m-bain/whisperX](https://github.com/m-bain/whisperX)
-4. ❗ Opened issue [#3](https://github.com/CachyOS/CachyOS-Browser-Settings/issues/3) in [CachyOS/CachyOS-Browser-Settings](https://github.com/CachyOS/CachyOS-Browser-Settings)
-5. ❗ Opened issue [#2](https://github.com/metafates/pat/issues/2) in [metafates/pat](https://github.com/metafates/pat)
+1. 🗣 Commented on [#2583](https://github.com/chaotic-aur/packages/issues/2583#issuecomment-1637037713) in [chaotic-aur/packages](https://github.com/chaotic-aur/packages)
+2. 🔒 Closed issue [#2651](https://github.com/chaotic-aur/packages/issues/2651) in [chaotic-aur/packages](https://github.com/chaotic-aur/packages)
+3. ❗ Opened issue [#2651](https://github.com/chaotic-aur/packages/issues/2651) in [chaotic-aur/packages](https://github.com/chaotic-aur/packages)
+4. 💪 Opened PR [#4](https://github.com/CachyOS/CachyOS-Browser-Settings/pull/4) in [CachyOS/CachyOS-Browser-Settings](https://github.com/CachyOS/CachyOS-Browser-Settings)
+5. 🗣 Commented on [#3](https://github.com/CachyOS/CachyOS-Browser-Settings/issues/3#issuecomment-1614356190) in [CachyOS/CachyOS-Browser-Settings](https://github.com/CachyOS/CachyOS-Browser-Settings)
 <!--END_SECTION:activity-->
