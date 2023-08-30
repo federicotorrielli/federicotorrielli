@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog)!
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#56](https://github.com/siduck/st/issues/56) in [siduck/st](https://github.com/siduck/st)
-2. 🗣 Commented on [#2583](https://github.com/chaotic-aur/packages/issues/2583#issuecomment-1637037713) in [chaotic-aur/packages](https://github.com/chaotic-aur/packages)
-3. 🔒 Closed issue [#2651](https://github.com/chaotic-aur/packages/issues/2651) in [chaotic-aur/packages](https://github.com/chaotic-aur/packages)
-4. ❗ Opened issue [#2651](https://github.com/chaotic-aur/packages/issues/2651) in [chaotic-aur/packages](https://github.com/chaotic-aur/packages)
-5. 💪 Opened PR [#4](https://github.com/CachyOS/CachyOS-Browser-Settings/pull/4) in [CachyOS/CachyOS-Browser-Settings](https://github.com/CachyOS/CachyOS-Browser-Settings)
+1. 🔒 Closed issue [#56](https://github.com/siduck/st/issues/56) in [siduck/st](https://github.com/siduck/st)
+2. 🗣 Commented on [#56](https://github.com/siduck/st/issues/56#issuecomment-1699052446) in [siduck/st](https://github.com/siduck/st)
+3. ❗ Opened issue [#56](https://github.com/siduck/st/issues/56) in [siduck/st](https://github.com/siduck/st)
+4. 🗣 Commented on [#2583](https://github.com/chaotic-aur/packages/issues/2583#issuecomment-1637037713) in [chaotic-aur/packages](https://github.com/chaotic-aur/packages)
+5. 🔒 Closed issue [#2651](https://github.com/chaotic-aur/packages/issues/2651) in [chaotic-aur/packages](https://github.com/chaotic-aur/packages)
 <!--END_SECTION:activity-->
