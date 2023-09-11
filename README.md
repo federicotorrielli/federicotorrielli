@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog)!
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/tsi-unito/guida_degli_studenti_di/pull/93#issuecomment-1713538992) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
-2. 🔒 Closed issue [#56](https://github.com/siduck/st/issues/56) in [siduck/st](https://github.com/siduck/st)
-3. 🗣 Commented on [#56](https://github.com/siduck/st/issues/56#issuecomment-1699052446) in [siduck/st](https://github.com/siduck/st)
-4. ❗ Opened issue [#56](https://github.com/siduck/st/issues/56) in [siduck/st](https://github.com/siduck/st)
-5. 🗣 Commented on [#2583](https://github.com/chaotic-aur/packages/issues/2583#issuecomment-1637037713) in [chaotic-aur/packages](https://github.com/chaotic-aur/packages)
+1. 🗣 Commented on [#91](https://github.com/tsi-unito/guida_degli_studenti_di/pull/91#issuecomment-1714074129) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
+2. 🎉 Merged PR [#82](https://github.com/tsi-unito/guida_degli_studenti_di/pull/82) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
+3. 🗣 Commented on [#93](https://github.com/tsi-unito/guida_degli_studenti_di/pull/93#issuecomment-1713538992) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
+4. 🔒 Closed issue [#56](https://github.com/siduck/st/issues/56) in [siduck/st](https://github.com/siduck/st)
+5. 🗣 Commented on [#56](https://github.com/siduck/st/issues/56#issuecomment-1699052446) in [siduck/st](https://github.com/siduck/st)
 <!--END_SECTION:activity-->
