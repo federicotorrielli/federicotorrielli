@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog)!
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/tsi-unito/guida_degli_studenti_di/pull/99#issuecomment-1751729832) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
-2. 🎉 Merged PR [#99](https://github.com/tsi-unito/guida_degli_studenti_di/pull/99) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
-3. 🗣 Commented on [#12](https://github.com/LorenzoMorelli/GPU_profile_selector/issues/12#issuecomment-1746393727) in [LorenzoMorelli/GPU_profile_selector](https://github.com/LorenzoMorelli/GPU_profile_selector)
-4. 🗣 Commented on [#1](https://github.com/tsi-unito/tsi-unito.github.io/issues/1#issuecomment-1725810801) in [tsi-unito/tsi-unito.github.io](https://github.com/tsi-unito/tsi-unito.github.io)
-5. 🔒 Closed issue [#1](https://github.com/tsi-unito/tsi-unito.github.io/issues/1) in [tsi-unito/tsi-unito.github.io](https://github.com/tsi-unito/tsi-unito.github.io)
+1. 🎉 Merged PR [#100](https://github.com/tsi-unito/guida_degli_studenti_di/pull/100) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
+2. 🗣 Commented on [#99](https://github.com/tsi-unito/guida_degli_studenti_di/pull/99#issuecomment-1751729832) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
+3. 🎉 Merged PR [#99](https://github.com/tsi-unito/guida_degli_studenti_di/pull/99) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
+4. 🗣 Commented on [#12](https://github.com/LorenzoMorelli/GPU_profile_selector/issues/12#issuecomment-1746393727) in [LorenzoMorelli/GPU_profile_selector](https://github.com/LorenzoMorelli/GPU_profile_selector)
+5. 🗣 Commented on [#1](https://github.com/tsi-unito/tsi-unito.github.io/issues/1#issuecomment-1725810801) in [tsi-unito/tsi-unito.github.io](https://github.com/tsi-unito/tsi-unito.github.io)
 <!--END_SECTION:activity-->
