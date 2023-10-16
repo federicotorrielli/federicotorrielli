@@ -1,6 +1,6 @@
 ![Header](header.png)
 
-I'm *Federico*, a PhD Student in **Artificial Intelligence** @ UniTO! I work on Attention-based Neural Networks (e.g. Transformers, Diffusers...).
+I'm *Federico*, a PhD Candidate in **Artificial Intelligence** @ UniTO! I work on Attention-based Neural Networks (e.g. Transformers, Diffusers...).
 I'm italian but fluent in english (and latin, *lol*).
 
 ### What am I working on? 💻
