@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog)!
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#512](https://github.com/Floorp-Projects/Floorp/issues/512) in [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
-2. 🗣 Commented on [#512](https://github.com/Floorp-Projects/Floorp/issues/512#issuecomment-1771030074) in [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
-3. ❗ Opened issue [#1420](https://github.com/vllm-project/vllm/issues/1420) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
-4. 🗣 Commented on [#512](https://github.com/Floorp-Projects/Floorp/issues/512#issuecomment-1767840319) in [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
-5. ❗ Opened issue [#512](https://github.com/Floorp-Projects/Floorp/issues/512) in [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
+1. 🗣 Commented on [#174](https://github.com/metafates/mangal/issues/174#issuecomment-1774589668) in [metafates/mangal](https://github.com/metafates/mangal)
+2. 🔒 Closed issue [#174](https://github.com/metafates/mangal/issues/174) in [metafates/mangal](https://github.com/metafates/mangal)
+3. 🔒 Closed issue [#512](https://github.com/Floorp-Projects/Floorp/issues/512) in [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
+4. 🗣 Commented on [#512](https://github.com/Floorp-Projects/Floorp/issues/512#issuecomment-1771030074) in [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
+5. ❗ Opened issue [#1420](https://github.com/vllm-project/vllm/issues/1420) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
 <!--END_SECTION:activity-->
