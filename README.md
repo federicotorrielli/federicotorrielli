@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog)!
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#174](https://github.com/metafates/mangal/issues/174#issuecomment-1774589668) in [metafates/mangal](https://github.com/metafates/mangal)
-2. 🔒 Closed issue [#174](https://github.com/metafates/mangal/issues/174) in [metafates/mangal](https://github.com/metafates/mangal)
-3. 🔒 Closed issue [#512](https://github.com/Floorp-Projects/Floorp/issues/512) in [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
-4. 🗣 Commented on [#512](https://github.com/Floorp-Projects/Floorp/issues/512#issuecomment-1771030074) in [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
-5. ❗ Opened issue [#1420](https://github.com/vllm-project/vllm/issues/1420) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+1. 🗣 Commented on [#101](https://github.com/tsi-unito/guida_degli_studenti_di/pull/101#issuecomment-1777338056) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
+2. 🎉 Merged PR [#101](https://github.com/tsi-unito/guida_degli_studenti_di/pull/101) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
+3. 🗣 Commented on [#101](https://github.com/tsi-unito/guida_degli_studenti_di/pull/101#issuecomment-1777324355) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
+4. 🗣 Commented on [#101](https://github.com/tsi-unito/guida_degli_studenti_di/pull/101#issuecomment-1777319023) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
+5. 💪 Opened PR [#101](https://github.com/tsi-unito/guida_degli_studenti_di/pull/101) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
 <!--END_SECTION:activity-->
