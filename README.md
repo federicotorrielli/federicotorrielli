@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog)!
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#136](https://github.com/MahmoudAshraf97/whisper-diarization/issues/136) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
-2. ❗ Opened issue [#1430](https://github.com/sharkdp/fd/issues/1430) in [sharkdp/fd](https://github.com/sharkdp/fd)
-3. 🗣 Commented on [#91](https://github.com/tsi-unito/guida_degli_studenti_di/pull/91#issuecomment-1777367097) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
-4. 🗣 Commented on [#101](https://github.com/tsi-unito/guida_degli_studenti_di/pull/101#issuecomment-1777338056) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
-5. 🎉 Merged PR [#101](https://github.com/tsi-unito/guida_degli_studenti_di/pull/101) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
+1. 🗣 Commented on [#1430](https://github.com/sharkdp/fd/issues/1430#issuecomment-1833372043) in [sharkdp/fd](https://github.com/sharkdp/fd)
+2. 🔒 Closed issue [#1430](https://github.com/sharkdp/fd/issues/1430) in [sharkdp/fd](https://github.com/sharkdp/fd)
+3. ❗ Opened issue [#136](https://github.com/MahmoudAshraf97/whisper-diarization/issues/136) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
+4. ❗ Opened issue [#1430](https://github.com/sharkdp/fd/issues/1430) in [sharkdp/fd](https://github.com/sharkdp/fd)
+5. 🗣 Commented on [#91](https://github.com/tsi-unito/guida_degli_studenti_di/pull/91#issuecomment-1777367097) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
 <!--END_SECTION:activity-->
