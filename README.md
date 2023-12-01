@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog)!
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1430](https://github.com/sharkdp/fd/issues/1430#issuecomment-1833372043) in [sharkdp/fd](https://github.com/sharkdp/fd)
-2. 🔒 Closed issue [#1430](https://github.com/sharkdp/fd/issues/1430) in [sharkdp/fd](https://github.com/sharkdp/fd)
-3. ❗ Opened issue [#136](https://github.com/MahmoudAshraf97/whisper-diarization/issues/136) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
-4. ❗ Opened issue [#1430](https://github.com/sharkdp/fd/issues/1430) in [sharkdp/fd](https://github.com/sharkdp/fd)
-5. 🗣 Commented on [#91](https://github.com/tsi-unito/guida_degli_studenti_di/pull/91#issuecomment-1777367097) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
+1. 🗣 Commented on [#136](https://github.com/MahmoudAshraf97/whisper-diarization/issues/136#issuecomment-1835788047) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
+2. 🗣 Commented on [#12774](https://github.com/conda/conda/issues/12774#issuecomment-1835783990) in [conda/conda](https://github.com/conda/conda)
+3. 🔒 Closed issue [#12774](https://github.com/conda/conda/issues/12774) in [conda/conda](https://github.com/conda/conda)
+4. 🔒 Closed issue [#1420](https://github.com/vllm-project/vllm/issues/1420) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+5. 🗣 Commented on [#1430](https://github.com/sharkdp/fd/issues/1430#issuecomment-1833372043) in [sharkdp/fd](https://github.com/sharkdp/fd)
 <!--END_SECTION:activity-->
