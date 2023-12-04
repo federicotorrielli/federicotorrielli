@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog)!
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#612](https://github.com/Floorp-Projects/Floorp/issues/612) in [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
-2. 🗣 Commented on [#136](https://github.com/MahmoudAshraf97/whisper-diarization/issues/136#issuecomment-1835788047) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
-3. 🗣 Commented on [#12774](https://github.com/conda/conda/issues/12774#issuecomment-1835783990) in [conda/conda](https://github.com/conda/conda)
-4. 🔒 Closed issue [#12774](https://github.com/conda/conda/issues/12774) in [conda/conda](https://github.com/conda/conda)
-5. 🔒 Closed issue [#1420](https://github.com/vllm-project/vllm/issues/1420) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+1. 🗣 Commented on [#136](https://github.com/MahmoudAshraf97/whisper-diarization/issues/136#issuecomment-1839027747) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
+2. ❗ Opened issue [#612](https://github.com/Floorp-Projects/Floorp/issues/612) in [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
+3. 🗣 Commented on [#136](https://github.com/MahmoudAshraf97/whisper-diarization/issues/136#issuecomment-1835788047) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
+4. 🗣 Commented on [#12774](https://github.com/conda/conda/issues/12774#issuecomment-1835783990) in [conda/conda](https://github.com/conda/conda)
+5. 🔒 Closed issue [#12774](https://github.com/conda/conda/issues/12774) in [conda/conda](https://github.com/conda/conda)
 <!--END_SECTION:activity-->
