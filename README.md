@@ -34,9 +34,9 @@ You can read my personal blog [here](https://federicotorrielli.github.io/blog)!
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#107](https://github.com/tsi-unito/guida_degli_studenti_di/pull/107) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
-2. 🗣 Commented on [#104](https://github.com/tsi-unito/guida_degli_studenti_di/pull/104#issuecomment-1878556354) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
-3. 🎉 Merged PR [#104](https://github.com/tsi-unito/guida_degli_studenti_di/pull/104) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
-4. ❌ Closed PR [#91](https://github.com/tsi-unito/guida_degli_studenti_di/pull/91) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
-5. 🗣 Commented on [#105](https://github.com/tsi-unito/guida_degli_studenti_di/pull/105#issuecomment-1878549018) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
+1. 🎉 Merged PR [#108](https://github.com/tsi-unito/guida_degli_studenti_di/pull/108) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
+2. 🎉 Merged PR [#107](https://github.com/tsi-unito/guida_degli_studenti_di/pull/107) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
+3. 🗣 Commented on [#104](https://github.com/tsi-unito/guida_degli_studenti_di/pull/104#issuecomment-1878556354) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
+4. 🎉 Merged PR [#104](https://github.com/tsi-unito/guida_degli_studenti_di/pull/104) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
+5. ❌ Closed PR [#91](https://github.com/tsi-unito/guida_degli_studenti_di/pull/91) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
 <!--END_SECTION:activity-->
