@@ -27,9 +27,9 @@ You can find most of the things I do on [my website](https://www.evilscript.eu/)
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/federicotorrielli/Daily-Reddit-Wallpaper/pull/7) in [federicotorrielli/Daily-Reddit-Wallpaper](https://github.com/federicotorrielli/Daily-Reddit-Wallpaper)
-2. 🎉 Merged PR [#6](https://github.com/federicotorrielli/Daily-Reddit-Wallpaper/pull/6) in [federicotorrielli/Daily-Reddit-Wallpaper](https://github.com/federicotorrielli/Daily-Reddit-Wallpaper)
-3. 🎉 Merged PR [#5](https://github.com/federicotorrielli/Daily-Reddit-Wallpaper/pull/5) in [federicotorrielli/Daily-Reddit-Wallpaper](https://github.com/federicotorrielli/Daily-Reddit-Wallpaper)
-4. 🗣 Commented on [#172](https://github.com/somepaulo/MoreWaita/issues/172#issuecomment-2376397393) in [somepaulo/MoreWaita](https://github.com/somepaulo/MoreWaita)
-5. 🎉 Merged PR [#121](https://github.com/tsi-unito/guida_degli_studenti_di/pull/121) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
+1. 🗣 Commented on [#901](https://github.com/m-bain/whisperX/issues/901#issuecomment-2431935668) in [m-bain/whisperX](https://github.com/m-bain/whisperX)
+2. 🎉 Merged PR [#7](https://github.com/federicotorrielli/Daily-Reddit-Wallpaper/pull/7) in [federicotorrielli/Daily-Reddit-Wallpaper](https://github.com/federicotorrielli/Daily-Reddit-Wallpaper)
+3. 🎉 Merged PR [#6](https://github.com/federicotorrielli/Daily-Reddit-Wallpaper/pull/6) in [federicotorrielli/Daily-Reddit-Wallpaper](https://github.com/federicotorrielli/Daily-Reddit-Wallpaper)
+4. 🎉 Merged PR [#5](https://github.com/federicotorrielli/Daily-Reddit-Wallpaper/pull/5) in [federicotorrielli/Daily-Reddit-Wallpaper](https://github.com/federicotorrielli/Daily-Reddit-Wallpaper)
+5. 🗣 Commented on [#172](https://github.com/somepaulo/MoreWaita/issues/172#issuecomment-2376397393) in [somepaulo/MoreWaita](https://github.com/somepaulo/MoreWaita)
 <!--END_SECTION:activity-->
