@@ -9,7 +9,6 @@ You can find most of the things I do on [my website](https://www.evilscript.eu/)
 99% of the time you will find me programming in **Python** and Bash for **Linux distributions**, artificial intelligence projects and much, *much* more.
 
 ### Technologies and Tools 🔧
-![](https://img.shields.io/badge/OS-Pop_OS!-informational?style=flat&logo=popos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a)
@@ -19,10 +18,8 @@ You can find most of the things I do on [my website](https://www.evilscript.eu/)
 ![](https://img.shields.io/badge/Learning-Rust-informational?style=flat&logo=Rust&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=e74c3c)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=e74c3c)
-![](https://img.shields.io/badge/Using-DuckDuckGO-informational?style=flat&logo=duckduckgo&logoColor=white&color=DE5833)
 ![](https://img.shields.io/badge/Hating-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/Mail-ProtonMail-informational?style=flat&logo=protonmail&logoColor=white&color=8B89CC)
-![](https://img.shields.io/badge/Loving-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=412991)
 
 ### What am I doing?
 
