@@ -24,9 +24,9 @@ You can find most of the things I do on [my website](https://www.evilscript.eu/)
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#900](https://github.com/m-bain/whisperX/pull/900#issuecomment-2435521847) in [m-bain/whisperX](https://github.com/m-bain/whisperX)
-2. 🗣 Commented on [#903](https://github.com/m-bain/whisperX/issues/903#issuecomment-2435517676) in [m-bain/whisperX](https://github.com/m-bain/whisperX)
-3. 🗣 Commented on [#901](https://github.com/m-bain/whisperX/issues/901#issuecomment-2431935668) in [m-bain/whisperX](https://github.com/m-bain/whisperX)
-4. 🎉 Merged PR [#7](https://github.com/federicotorrielli/Daily-Reddit-Wallpaper/pull/7) in [federicotorrielli/Daily-Reddit-Wallpaper](https://github.com/federicotorrielli/Daily-Reddit-Wallpaper)
-5. 🎉 Merged PR [#6](https://github.com/federicotorrielli/Daily-Reddit-Wallpaper/pull/6) in [federicotorrielli/Daily-Reddit-Wallpaper](https://github.com/federicotorrielli/Daily-Reddit-Wallpaper)
+1. 🗣 Commented on [#906](https://github.com/m-bain/whisperX/issues/906#issuecomment-2439903254) in [m-bain/whisperX](https://github.com/m-bain/whisperX)
+2. 🗣 Commented on [#905](https://github.com/m-bain/whisperX/issues/905#issuecomment-2439902971) in [m-bain/whisperX](https://github.com/m-bain/whisperX)
+3. 🗣 Commented on [#900](https://github.com/m-bain/whisperX/pull/900#issuecomment-2435521847) in [m-bain/whisperX](https://github.com/m-bain/whisperX)
+4. 🗣 Commented on [#903](https://github.com/m-bain/whisperX/issues/903#issuecomment-2435517676) in [m-bain/whisperX](https://github.com/m-bain/whisperX)
+5. 🗣 Commented on [#901](https://github.com/m-bain/whisperX/issues/901#issuecomment-2431935668) in [m-bain/whisperX](https://github.com/m-bain/whisperX)
 <!--END_SECTION:activity-->
