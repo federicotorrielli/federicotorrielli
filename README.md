@@ -24,9 +24,9 @@ You can find most of the things I do on [my website](https://www.evilscript.eu/)
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#901](https://github.com/m-bain/whisperX/issues/901#issuecomment-2442752168) in [m-bain/whisperX](https://github.com/m-bain/whisperX)
-2. 🗣 Commented on [#901](https://github.com/m-bain/whisperX/issues/901#issuecomment-2440801182) in [m-bain/whisperX](https://github.com/m-bain/whisperX)
-3. 🗣 Commented on [#906](https://github.com/m-bain/whisperX/issues/906#issuecomment-2439903254) in [m-bain/whisperX](https://github.com/m-bain/whisperX)
-4. 🗣 Commented on [#905](https://github.com/m-bain/whisperX/issues/905#issuecomment-2439902971) in [m-bain/whisperX](https://github.com/m-bain/whisperX)
-5. 🗣 Commented on [#900](https://github.com/m-bain/whisperX/pull/900#issuecomment-2435521847) in [m-bain/whisperX](https://github.com/m-bain/whisperX)
+1. 🗣 Commented on [#1](https://github.com/federicotorrielli/BetterWhisperX/pull/1#issuecomment-2444190711) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
+2. 🎉 Merged PR [#1](https://github.com/federicotorrielli/BetterWhisperX/pull/1) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
+3. 🗣 Commented on [#901](https://github.com/m-bain/whisperX/issues/901#issuecomment-2442752168) in [m-bain/whisperX](https://github.com/m-bain/whisperX)
+4. 🗣 Commented on [#901](https://github.com/m-bain/whisperX/issues/901#issuecomment-2440801182) in [m-bain/whisperX](https://github.com/m-bain/whisperX)
+5. 🗣 Commented on [#906](https://github.com/m-bain/whisperX/issues/906#issuecomment-2439903254) in [m-bain/whisperX](https://github.com/m-bain/whisperX)
 <!--END_SECTION:activity-->
