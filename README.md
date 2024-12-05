@@ -24,9 +24,9 @@ You can find most of the things I do on [my website](https://www.evilscript.eu/)
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#471](https://github.com/YTLitePlus/YTLitePlus/issues/471#issuecomment-2517488693) in [YTLitePlus/YTLitePlus](https://github.com/YTLitePlus/YTLitePlus)
-2. 🗣 Commented on [#2](https://github.com/federicotorrielli/BetterWhisperX/issues/2#issuecomment-2507561385) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
-3. 🗣 Commented on [#1](https://github.com/federicotorrielli/BetterWhisperX/pull/1#issuecomment-2444190711) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
-4. 🎉 Merged PR [#1](https://github.com/federicotorrielli/BetterWhisperX/pull/1) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
-5. 🗣 Commented on [#901](https://github.com/m-bain/whisperX/issues/901#issuecomment-2442752168) in [m-bain/whisperX](https://github.com/m-bain/whisperX)
+1. 🚀 Published release [First Release](https://github.com/federicotorrielli/pron-difficulty/releases/tag/first) in [federicotorrielli/pron-difficulty](https://github.com/federicotorrielli/pron-difficulty)
+2. 🗣 Commented on [#471](https://github.com/YTLitePlus/YTLitePlus/issues/471#issuecomment-2517488693) in [YTLitePlus/YTLitePlus](https://github.com/YTLitePlus/YTLitePlus)
+3. 🗣 Commented on [#2](https://github.com/federicotorrielli/BetterWhisperX/issues/2#issuecomment-2507561385) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
+4. 🗣 Commented on [#1](https://github.com/federicotorrielli/BetterWhisperX/pull/1#issuecomment-2444190711) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
+5. 🎉 Merged PR [#1](https://github.com/federicotorrielli/BetterWhisperX/pull/1) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
 <!--END_SECTION:activity-->
