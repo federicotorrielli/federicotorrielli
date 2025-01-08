@@ -24,9 +24,9 @@ You can find most of the things I do on [my website](https://www.evilscript.eu/)
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Better Pron Difficulty](https://github.com/federicotorrielli/pron-difficulty/releases/tag/0.2.0) in [federicotorrielli/pron-difficulty](https://github.com/federicotorrielli/pron-difficulty)
-2. 🔒 Closed issue [#4](https://github.com/federicotorrielli/BetterWhisperX/issues/4) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
-3. 🗣 Commented on [#5](https://github.com/federicotorrielli/BetterWhisperX/issues/5#issuecomment-2525066885) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
-4. 🔒 Closed issue [#5](https://github.com/federicotorrielli/BetterWhisperX/issues/5) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
-5. 🗣 Commented on [#4](https://github.com/federicotorrielli/BetterWhisperX/issues/4#issuecomment-2522705485) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
+1. 🗣 Commented on [#7](https://github.com/federicotorrielli/BetterWhisperX/issues/7#issuecomment-2577582596) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
+2. 🔒 Closed issue [#7](https://github.com/federicotorrielli/BetterWhisperX/issues/7) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
+3. 🗣 Commented on [#8](https://github.com/federicotorrielli/BetterWhisperX/issues/8#issuecomment-2577580613) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
+4. 🔒 Closed issue [#8](https://github.com/federicotorrielli/BetterWhisperX/issues/8) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
+5. 🚀 Published release [Better Pron Difficulty](https://github.com/federicotorrielli/pron-difficulty/releases/tag/0.2.0) in [federicotorrielli/pron-difficulty](https://github.com/federicotorrielli/pron-difficulty)
 <!--END_SECTION:activity-->
