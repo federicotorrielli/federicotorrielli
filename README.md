@@ -24,9 +24,9 @@ You can find most of the things I do on [my website](https://www.evilscript.eu/)
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/federicotorrielli/BetterWhisperX/issues/7#issuecomment-2577582596) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
-2. 🔒 Closed issue [#7](https://github.com/federicotorrielli/BetterWhisperX/issues/7) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
-3. 🗣 Commented on [#8](https://github.com/federicotorrielli/BetterWhisperX/issues/8#issuecomment-2577580613) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
-4. 🔒 Closed issue [#8](https://github.com/federicotorrielli/BetterWhisperX/issues/8) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
-5. 🚀 Published release [Better Pron Difficulty](https://github.com/federicotorrielli/pron-difficulty/releases/tag/0.2.0) in [federicotorrielli/pron-difficulty](https://github.com/federicotorrielli/pron-difficulty)
+1. 🗣 Commented on [#8](https://github.com/federicotorrielli/BetterWhisperX/issues/8#issuecomment-2577801773) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
+2. 🗣 Commented on [#7](https://github.com/federicotorrielli/BetterWhisperX/issues/7#issuecomment-2577582596) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
+3. 🔒 Closed issue [#7](https://github.com/federicotorrielli/BetterWhisperX/issues/7) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
+4. 🗣 Commented on [#8](https://github.com/federicotorrielli/BetterWhisperX/issues/8#issuecomment-2577580613) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
+5. 🔒 Closed issue [#8](https://github.com/federicotorrielli/BetterWhisperX/issues/8) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
 <!--END_SECTION:activity-->
