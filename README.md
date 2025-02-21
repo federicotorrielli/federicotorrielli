@@ -24,9 +24,9 @@ You can find most of the things I do on [my website](https://www.evilscript.eu/)
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#301](https://github.com/MahmoudAshraf97/whisper-diarization/issues/301#issuecomment-2671425566) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
-2. 🗣 Commented on [#301](https://github.com/MahmoudAshraf97/whisper-diarization/issues/301#issuecomment-2671205550) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
-3. 🗣 Commented on [#301](https://github.com/MahmoudAshraf97/whisper-diarization/issues/301#issuecomment-2671111527) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
-4. 🗣 Commented on [#8](https://github.com/federicotorrielli/BetterWhisperX/issues/8#issuecomment-2577580613) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
+1. 🗣 Commented on [#301](https://github.com/MahmoudAshraf97/whisper-diarization/issues/301#issuecomment-2671504053) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
+2. 🗣 Commented on [#301](https://github.com/MahmoudAshraf97/whisper-diarization/issues/301#issuecomment-2671425566) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
+3. 🗣 Commented on [#301](https://github.com/MahmoudAshraf97/whisper-diarization/issues/301#issuecomment-2671205550) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
+4. 🗣 Commented on [#301](https://github.com/MahmoudAshraf97/whisper-diarization/issues/301#issuecomment-2671111527) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
 5. 🔒 Closed issue [#8](https://github.com/federicotorrielli/BetterWhisperX/issues/8) in [federicotorrielli/BetterWhisperX](https://github.com/federicotorrielli/BetterWhisperX)
 <!--END_SECTION:activity-->
