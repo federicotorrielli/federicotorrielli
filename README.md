@@ -24,7 +24,7 @@ You can find most of the things I do on [my website](https://www.evilscript.eu/)
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#134](https://github.com/tsi-unito/guida_degli_studenti_di/pull/134) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
+1. 🎉 Merged PR [#8](https://github.com/federicotorrielli/Daily-Reddit-Wallpaper/pull/8) in [federicotorrielli/Daily-Reddit-Wallpaper](https://github.com/federicotorrielli/Daily-Reddit-Wallpaper)
 2. 🗣 Commented on [#394](https://github.com/tdurieux/anonymous_github/issues/394#issuecomment-2720655818) in [tdurieux/anonymous_github](https://github.com/tdurieux/anonymous_github)
 3. 🗣 Commented on [#301](https://github.com/MahmoudAshraf97/whisper-diarization/issues/301#issuecomment-2700908807) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
 4. 🗣 Commented on [#301](https://github.com/MahmoudAshraf97/whisper-diarization/issues/301#issuecomment-2671559610) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
