@@ -24,8 +24,8 @@ You can find most of the things I do on [my website](https://www.evilscript.eu/)
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/federicotorrielli/wallhaven/pull/1) in [federicotorrielli/wallhaven](https://github.com/federicotorrielli/wallhaven)
-2. 🗣 Commented on [#140](https://github.com/tsi-unito/guida_degli_studenti_di/pull/140#issuecomment-3223615664) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
+1. ❗ Opened issue [#187](https://github.com/hectorm/hblock/issues/187) in [hectorm/hblock](https://github.com/hectorm/hblock)
+2. 🎉 Merged PR [#1](https://github.com/federicotorrielli/wallhaven/pull/1) in [federicotorrielli/wallhaven](https://github.com/federicotorrielli/wallhaven)
 3. 🗣 Commented on [#301](https://github.com/MahmoudAshraf97/whisper-diarization/issues/301#issuecomment-2700908807) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
 4. 🗣 Commented on [#301](https://github.com/MahmoudAshraf97/whisper-diarization/issues/301#issuecomment-2671559610) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
 5. 🗣 Commented on [#301](https://github.com/MahmoudAshraf97/whisper-diarization/issues/301#issuecomment-2671504053) in [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
