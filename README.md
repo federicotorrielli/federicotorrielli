@@ -24,9 +24,9 @@ You can find most of the things I do on [my website](https://www.evilscript.eu/)
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/federicotorrielli/wallhaven/pull/2#issuecomment-3401921091) in [federicotorrielli/wallhaven](https://github.com/federicotorrielli/wallhaven)
-2.  Labeled issue [#187](https://github.com/hectorm/hblock/issues/187) in [hectorm/hblock](https://github.com/hectorm/hblock)
-3. ❗ Opened issue [#187](https://github.com/hectorm/hblock/issues/187) in [hectorm/hblock](https://github.com/hectorm/hblock)
-4. 🗣 Commented on [#13](https://github.com/federicotorrielli/pywordle/pull/13#issuecomment-3375754693) in [federicotorrielli/pywordle](https://github.com/federicotorrielli/pywordle)
-5. 🗣 Commented on [#13](https://github.com/federicotorrielli/pywordle/pull/13#issuecomment-3375673479) in [federicotorrielli/pywordle](https://github.com/federicotorrielli/pywordle)
+1. ❌ Unassigned PR [#2](undefined) in [federicotorrielli/wallhaven](https://github.com/federicotorrielli/wallhaven)
+2. ❌ Assigned PR [#2](undefined) in [federicotorrielli/wallhaven](https://github.com/federicotorrielli/wallhaven)
+3.  Labeled issue [#187](https://github.com/hectorm/hblock/issues/187) in [hectorm/hblock](https://github.com/hectorm/hblock)
+4. ❗ Opened issue [#187](https://github.com/hectorm/hblock/issues/187) in [hectorm/hblock](https://github.com/hectorm/hblock)
+5. 🗣 Commented on [#13](https://github.com/federicotorrielli/pywordle/pull/13#issuecomment-3375754693) in [federicotorrielli/pywordle](https://github.com/federicotorrielli/pywordle)
 <!--END_SECTION:activity-->
