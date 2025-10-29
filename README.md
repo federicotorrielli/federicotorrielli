@@ -24,9 +24,9 @@ You can find most of the things I do on [my website](https://www.evilscript.eu/)
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. ❌ Unassigned PR [#2](undefined) in [federicotorrielli/wallhaven](https://github.com/federicotorrielli/wallhaven)
-2. ❌ Assigned PR [#2](undefined) in [federicotorrielli/wallhaven](https://github.com/federicotorrielli/wallhaven)
-3.  Labeled issue [#187](https://github.com/hectorm/hblock/issues/187) in [hectorm/hblock](https://github.com/hectorm/hblock)
-4. ❗ Opened issue [#187](https://github.com/hectorm/hblock/issues/187) in [hectorm/hblock](https://github.com/hectorm/hblock)
-5. 🗣 Commented on [#13](https://github.com/federicotorrielli/pywordle/pull/13#issuecomment-3375754693) in [federicotorrielli/pywordle](https://github.com/federicotorrielli/pywordle)
+1. 🗣 Commented on [#138](https://github.com/tsi-unito/guida_degli_studenti_di/pull/138#issuecomment-3462577690) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
+2. ❌ Unassigned PR [#2](undefined) in [federicotorrielli/wallhaven](https://github.com/federicotorrielli/wallhaven)
+3. ❌ Assigned PR [#2](undefined) in [federicotorrielli/wallhaven](https://github.com/federicotorrielli/wallhaven)
+4.  Labeled issue [#187](https://github.com/hectorm/hblock/issues/187) in [hectorm/hblock](https://github.com/hectorm/hblock)
+5. ❗ Opened issue [#187](https://github.com/hectorm/hblock/issues/187) in [hectorm/hblock](https://github.com/hectorm/hblock)
 <!--END_SECTION:activity-->
