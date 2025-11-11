@@ -1,11 +1,9 @@
-![Header](header.png)
-
 I'm *Federico*, a PhD Candidate in **Artificial Intelligence** @ UniTO! I work on Attention-based Neural Networks (e.g. Transformers, Diffusers...).
 I'm italian but fluent in english (and latin, *lol*).
 
 ### What am I working on? 💻
 
-You can find most of the things I do on [my website](https://www.evilscript.eu/)!
+You can find most of the things I do on [my website](https://federicotorrielli.github.io/)!
 99% of the time you will find me programming in **Python** and Bash for **Linux distributions**, artificial intelligence projects and much, *much* more.
 
 ### Technologies and Tools 🔧
