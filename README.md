@@ -23,7 +23,7 @@ You can find most of the things I do on [my website](https://federicotorrielli.g
 ### What am I doing?
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#138](https://github.com/tsi-unito/guida_degli_studenti_di/pull/138#issuecomment-3462577690) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
+1. 🗣 Commented on [#152](https://github.com/tsi-unito/guida_degli_studenti_di/pull/152#issuecomment-4024179613) in [tsi-unito/guida_degli_studenti_di](https://github.com/tsi-unito/guida_degli_studenti_di)
 2. ❌ Unassigned PR [#2](undefined) in [federicotorrielli/wallhaven](https://github.com/federicotorrielli/wallhaven)
 3. ❌ Assigned PR [#2](undefined) in [federicotorrielli/wallhaven](https://github.com/federicotorrielli/wallhaven)
 4.  Labeled issue [#187](https://github.com/hectorm/hblock/issues/187) in [hectorm/hblock](https://github.com/hectorm/hblock)
